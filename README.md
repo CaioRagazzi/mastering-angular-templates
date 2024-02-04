@@ -118,7 +118,7 @@ Using this strategy we can create highly customizable and flexible components, a
 What do you guys think about this design?
 What would you change to make it better?
 
-If you want to check the code for this example here's a GiHub repository: [Angular.io](https://github.com/CaioRagazzi/mastering-angular-templates)
+If you want to check the code for this example here's a GiHub repository: [GitHub](https://github.com/CaioRagazzi/mastering-angular-templates)
 
 Thanks a lot for reading this post everyone and as always I wish some happy code for you!
 
